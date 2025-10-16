@@ -1,0 +1,7 @@
+Name: Social Climber
+Type: Minion
+Ability: Your good neighbors might register as evil and as Minions or Demons.
+You might register as good and as a Townsfolk or Outsider.
+
+Explanation: The misregistration half of Spy that makes its good neighbors
+into Recluses. I think "Debutante" could also work for the name.
