@@ -1,9 +1,0 @@
-Name: Prosecutor
-Type: Townsfolk
-Ability: Each night, choose a player: If you are mad they are evil tomorrow,
-learn their character that night.
-
-Explanation: A Townsfolk that can learn the roles of multiple players at the
-cost of needing to act like you think they're evil, whether or not that's
-true. There's a ton of balance nobs to turn here; it could be a once per game,
-the storyteller could choose who instead of the player, etc.
