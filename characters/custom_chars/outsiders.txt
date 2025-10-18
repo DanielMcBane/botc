@@ -1,0 +1,8 @@
+OUTSIDERS
+
+Name: Ventriloquist
+Ability: Player might learn something has happened, even if it hasn't
+Notes: A character that allows the storyteller to fake announcements,
+such as announcing day 1 of a Leviathan game when there is no announcement, or
+announcing the Fearmonger has chosen a new victim even after the Fearmonger is
+dead.

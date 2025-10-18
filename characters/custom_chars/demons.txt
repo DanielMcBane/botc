@@ -1,0 +1,11 @@
+DEMONS
+
+Name: Geminarch
+Ability: Each night*, choose a player: they die. You know the other Geminarch
+[+1 Geminarch -1 Minion]
+Notes: there's two demons that both have to be killed, but one less minion.
+
+Name: Electrologist
+Ability: Each night*, choose a player: they choose a player. The second chosen
+player dies.
+Notes: probably dumb and wouldn't work, why did I make this?
