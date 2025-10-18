@@ -1,7 +1,0 @@
-Name: Slanderer
-Type: Minion
-Ability: Each night, choose a player: they might register as evil and as a
-Demon or Minion until dusk.
-
-Explanation: A minion that functionally gives a player the Recluse ability for
-a day.

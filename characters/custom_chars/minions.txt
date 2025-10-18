@@ -1,0 +1,9 @@
+MINIONS
+
+Name: Slanderer
+Ability: Each night, choose a player: they might register as evil and as a Demon or Minion until dusk.
+Notes: A minion that functionally gives a player the Recluse ability for a day.
+
+Name: Debutante
+Ability: Your good neighbors might register as evil and as Minions or Demons. You might register as good and as a Townsfolk or Outsider.
+Notes: The misregistration half of Spy that makes its good neighbors into Recluses.

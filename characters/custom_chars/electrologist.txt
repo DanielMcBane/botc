@@ -1,6 +1,0 @@
-Name: Electrologist
-Type: Demon
-Ability: Each night*, choose a player: they choose a player. The second chosen
-player dies.
-
-Explanation: probably dumb and wouldn't work, why did I make this?
