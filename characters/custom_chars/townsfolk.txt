@@ -7,3 +7,25 @@ Notes: A Townsfolk that can learn the roles of multiple players at the
 cost of needing to act like you think they're evil, whether or not that's
 true. There's a ton of balance nobs to turn here; it could be a once per game,
 the storyteller could choose who instead of the player, etc.
+
+Name: Prospector
+Ability: Each night, choose a number: you learn if the closest minion is less
+or more steps away. If exactly that many, this info is arbitrary.
+Notes: text is too long, unsure how to shorten
+
+Name: Surveyor
+Ability: Each night, you learn how many steps to the nearest living minion. If
+there are none, this info is arbitrary.
+
+Name: Proctor
+Ability: Each night, you learn how many evil players voted today.
+Notes: Cares about votes, can detect if someone has been turned evil if all
+vote
+
+Name: Changeling
+Ability: You start knowing a not in play Townsfolk. If you would die at night,
+you become that character instead.
+
+Name: Ascetic
+Ability: Each night, choose a player: when you choose an Outsider, you both
+lose your abilities.

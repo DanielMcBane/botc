@@ -7,3 +7,24 @@ Notes: A minion that functionally gives a player the Recluse ability for a day.
 Name: Debutante
 Ability: Your good neighbors might register as evil and as Minions or Demons. You might register as good and as a Townsfolk or Outsider.
 Notes: The misregistration half of Spy that makes its good neighbors into Recluses.
+
+Name: Hexen
+Ability: Each night, choose a character (different to last night): they are
+poisoned until dusk.
+Notes: a poisoner that picks characters, not players.
+
+Name: Stitcher
+Ability: Once per game at night, choose a dead non-Demon player: they are
+resurrected. If they're a Townsfolk, they're poisoned.
+Notes: 
+
+Name: Double Agent
+Ability: Once per game at night*, you may choose to register as dead. When you
+do, you may vote twice per nomination.
+Notes: Designed by Ashley
+Flavor Text: "Yes, I faked my death. Don't worry, your's will be real."
+
+Name: Rascal
+Ability: Each night, choose a player: you learn who they are. You may choose
+to poison you both.
+Notes: mentally this sits closest to Widow to me among actual characters
