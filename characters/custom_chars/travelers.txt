@@ -1,0 +1,3 @@
+Name: Sommelier
+Ability: Each night, choose a character you haven't chosen yet: they are drunk
+until dusk.

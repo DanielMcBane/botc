@@ -1,0 +1,7 @@
+Name: Reaper
+Ability: Once per game at night, a player might die.
+Notes: just there to cause a little confusion about night deaths
+
+Name: Samsara
+Ability: Once per game at night, a player might be resurrected.
+Notes: just there to cause a little confusion about resurrections
