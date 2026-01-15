@@ -28,3 +28,17 @@ Name: Rascal
 Ability: Each night, choose a player: you learn who they are. You may choose
 to poison you both.
 Notes: mentally this sits closest to Widow to me among actual characters
+
+Name: False Martyr
+Ability: When you learn you died, publicly choose a player: if they're an
+Outsider, they become evil [+0 or +1 Outsider]
+Notes: 
+
+Name: Doubtmonger
+Ability: When you are executed, a Townsfolk becomes a not in play Outsider [-1
+or +1 Outsider]
+Notes: 
+
+Name: Cursebound
+Ability: When you are executed, the nominator becomes evil tonight
+Notes: 

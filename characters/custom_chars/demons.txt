@@ -14,3 +14,7 @@ Name: Omen
 Ability: Each night*, choose a player: they die. All players know you are the
 Omen. You can't die if any Minions live.
 Notes: designed by albia and/or zach
+
+Name: Pale Rider
+Ability: Each night, choose a player: they die. If you choose a dead Outsider,
+their alive good neighbors die [+0 or +1 Outsider]

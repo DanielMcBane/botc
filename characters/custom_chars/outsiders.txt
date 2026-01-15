@@ -12,3 +12,13 @@ Ability: Each night, choose a Townsfolk you haven't chosen yet: they are drunk
 until dusk.
 Notes: i think something similar without the Townsfolk restriction could work
 as a Traveller.
+
+Name: Rumormonger
+Ability: Each night, choose a player you haven't chosen: an evil player learns
+who they are.
+Notes: design by Ashley
+
+Name: Secretkeeper
+Ability: When you die, that night an evil player receives advice to help their
+team win.
+Notes: design by Ashley
